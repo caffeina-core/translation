@@ -26,7 +26,7 @@ See the [wiki](https://github.com/caffeina-core/translation/wiki).
 
 How to get involved:
 
-1. [Star](https://github.com/caffeina-core/api/stargazers) the project!
+1. [Star](https://github.com/caffeina-core/translation/stargazers) the project!
 2. Answer questions that come through [GitHub issues](https://github.com/caffeina-core/translation/issues?state=open)
 3. [Report a bug](https://github.com/caffeina-core/translation/issues/new) that you find
 
